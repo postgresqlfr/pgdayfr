@@ -42,7 +42,7 @@ pendant les conférences (accueil, traduction, préparation).
 La charge de travail n'est pas forcément importante, mais les petites
 gouttes d'eau font les grandes rivières.
 
-<a href="apropos.html">Contactez-nous</a> si vous êtes interessés !
+<a href="apropos.html">Contactez-nous</a> si vous êtes intéressés !
 
 Vous pouvez aussi nous rejoindre sur la
 [liste de discussion des organisateurs du PGDay](https://framalistes.org/sympa/info/pgdayfr).

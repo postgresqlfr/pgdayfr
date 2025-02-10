@@ -7,28 +7,29 @@ layout: default
 <h1>Le rendez-vous annuel de la communauté PostgreSQL ! </h1>
 </center>
 
-<center>
 <!--
+<center>
 <img src="img/pgday_2024_bandeau_final.png" alt="Lille" class="img-responsive"/>
 </center>
+-->
 
 > Le PG Day France est un moment de rencontres et de conférences pour la
 > communauté francophone de PostgreSQL. Les conférences s'adressent à tous
 > les utilisateurs du logiciel : étudiants, administrateurs systèmes, DBA,
 > développeurs, chefs de projets, décideurs, etc
--->
 
+
+<!--
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wpSuumIHzjY?si=DlKxJBHMXPk5FPOP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 </center>
-
-<!--
-<center>
-<h2>L'édition 2024 se tiendra le 11-12 juin à Lille</h2>
 -->
+
+<center>
+<h2>L'édition 2025 se tiendra les 3-4 juin à Mons (Belgique) !</h2>
+
 
 <!--
 <h3><a href='/appel'>l'appel à orateur est ouvert</a></h3>-->
@@ -52,6 +53,7 @@ Vous pouvez consulter les vidéos des éditions précédentes sur
 
 -->
 
+<!--
 ### Nos partenaires
 <div class="container">
         <div class="col-xs-12 col-md-6">
@@ -64,7 +66,6 @@ Vous pouvez consulter les vidéos des éditions précédentes sur
             <img src="img/databene.svg" alt="Databene" class="pg_sponsor">
           </a>
         </div>
-<!--
         <div class="col-xs-12 col-md-6">
           <a href="https://www.atolcd.com/" class="thumbnail">
             <img src="img/atolcd.png" alt="Atol CD" class="pg_sponsor">
@@ -121,8 +122,5 @@ Vous pouvez consulter les vidéos des éditions précédentes sur
           </a>
         </div>
       </div>
-
--->
-
 </div>
-
+-->
