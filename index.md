@@ -13,11 +13,12 @@ layout: default
 </center>
 -->
 
+<!--
 > Le PG Day France est un moment de rencontres et de conférences pour la
 > communauté francophone de PostgreSQL. Les conférences s'adressent à tous
 > les utilisateurs du logiciel : étudiants, administrateurs systèmes, DBA,
 > développeurs, chefs de projets, décideurs, etc
-
+-->
 
 <!--
 <center>
@@ -28,10 +29,20 @@ layout: default
 -->
 
 <center>
-<h2>L'édition 2025 se tiendra les 3-4 juin à Mons (Belgique) !</h2>
+<h2>PG Day France 2025 : Rendez-vous à Mons ! 🇧🇪</h2>
+</center>
 
+Cette année, le PG Day France franchit les frontières et vous invite à Mons, en Belgique, les 3 et 4 juin 2025 !
+
+<strong>Au programme de ces deux jours :</strong>
+* <strong>Mardi matin</strong> : Ateliers pratiques pour approfondir vos compétences PostgreSQL.
+* <strong>Mardi après-midi & Mercredi</strong> : Conférences, table ronde et lightning talks pour échanger avec la communauté et les experts.
+
+Passionnés, étudiants, DBA, développeurs et entreprises, tous se retrouvent pour partager et apprendre autour de PostgreSQL !
+Restez connectés pour plus de détails et l'ouverture des inscriptions.
 
 <!--
+<center>
 <h3><a href='/appel'>l'appel à orateur est ouvert</a></h3>-->
 <!--
 <div class='row'>
@@ -39,12 +50,10 @@ layout: default
     <a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Programme en ligne !</a>
   </div>
 </div>
+</center>
 -->
 
-</center>
-
 <!--
-
 <br/><br/>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQmSpvAHgPUAz3y-mxEccg0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
