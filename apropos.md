@@ -53,7 +53,7 @@ Le comité de sélection 2025 est composé des personnes suivantes :
 
   <div style="text-align: center; margin: 10px;">
     <img src="img/team/h_nguyen.jpg" alt="Helene Nguyen" class="img-responsive" width=100 style="margin: auto;"/>
-    <p> Helene Nguyen <br/> Engineering Manager & Fullstack Software Engineer @ Filigran.io</p>
+    <p> Helene Nguyen <br/> Engineering Manager & Software Engineer @ Filigran</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
