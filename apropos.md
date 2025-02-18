@@ -62,6 +62,11 @@ Le comité de sélection 2025 est composé des personnes suivantes :
   </div>
 
   <div style="text-align: center; margin: 10px;">
+    <img src="img/team/y_colin.jpg" alt="Yves Colin" class="img-responsive" width=100 style="margin: auto;"/>
+    <p>Yves Colin <br/> Customer Engineer Data Management @ Google</p>
+  </div>
+
+  <div style="text-align: center; margin: 10px;">
     <img src="img/team/b_drouvot.jpg" alt="Bertrand Drouvot" class="img-responsive" width=100 style="margin: auto;"/>
     <p>Bertrand Drouvot <br/> PostgreSQL Major Contributor & Engineering @ Amazon Web Services (RDS)</p>
   </div>
