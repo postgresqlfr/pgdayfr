@@ -2,9 +2,6 @@
 title: Code de Conduite
 ---
 
-
-
-
 # Code de Conduite de PostgreSQLFr
 
 <p><a href="https://asso.postgresql.fr">PostgreSQLFr</a> est une association dédiée à la promotion de PostgreSQLFr dans la sphère francophone.</p>

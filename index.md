@@ -41,17 +41,48 @@ Cette année, le PG Day France franchit les frontières et vous invite à Mons, 
 Passionnés, étudiants, DBA, développeurs et entreprises, tous se retrouvent pour partager et apprendre autour de PostgreSQL !
 Restez connectés pour plus de détails et l'ouverture des inscriptions.
 
-<!--
 <center>
-<h3><a href='/appel'>l'appel à orateur est ouvert</a></h3>-->
+<h3><a href='/appel'>L'appel à orateur est ouvert !</a></h3>
 <!--
 <div class='row'>
   <div class='col-md-6 col-md-offset-3 col-xs-12'>
     <a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Programme en ligne !</a>
   </div>
 </div>
-</center>
 -->
+</center>
+
+<hr/>
+
+<center>
+<h2>PG Day France 2025 : See You in Mons! 🇧🇪</h2>
+</center>
+
+The PG Day France is the annual conference of the French-speaking PostgreSQL community.
+
+This year, the event will take place on **June 3 and 4, 2025, in Mons (Belgium)**. We are seizing the opportunity to expand beyond borders by also accepting presentations in English! To maintain the primarily French-speaking identity of PG Day France, the CfP committee will ensure a balanced distribution of languages.
+
+So, if you are an expert in a field related to open-source databases, have used PostgreSQL in a specific context (_large-scale deployments, high loads, well-known clients, innovative projects, etc._), or are involved in an open-source project related to PostgreSQL, don't hesitate to submit a talk!
+
+<strong>Program for these two days:</strong>
+* <strong>Tuesday morning</strong>: Hands-on workshops to deepen your PostgreSQL skills.
+* <strong>Tuesday afternoon & Wednesday</strong>: Conferences, panel discussions, and lightning talks to engage with the community and experts.
+
+Enthusiasts, students, DBAs, developers, and companies: everyone comes together to share and learn about PostgreSQL!
+Stay tuned for more details and the opening of registrations.
+
+<center>
+<h3><a href='/appel'>Call for Paper is open!</a></h3>
+<!--
+<div class='row'>
+  <div class='col-md-6 col-md-offset-3 col-xs-12'>
+    <a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Programme en ligne !</a>
+  </div>
+</div>
+-->
+</center>
+
+<hr/>
 
 <!--
 <br/><br/>
@@ -59,7 +90,6 @@ Restez connectés pour plus de détails et l'ouverture des inscriptions.
 
 Vous pouvez consulter les vidéos des éditions précédentes sur
 [notre chaine Youtube](https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g)
-
 -->
 
 <!--

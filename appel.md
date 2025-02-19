@@ -17,7 +17,7 @@ La date limite de réception des propositions est désormais fixée au XX avril 
 ![](img/audience.jpg)
 
 <iframe
-  src="https://framaforms.org/appel-a-oratrices-et-orateurs-pg-day-france-2024-1678226625"
+  src="https://framaforms.org/call-for-paper-pg-day-france-2025-1678226625"
   width="100%"
   height="2000"
   border="0">
