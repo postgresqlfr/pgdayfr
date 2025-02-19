@@ -2,7 +2,6 @@
 title: "A propos"
 ---
 
-
 # A propos du PG Day France
 
 Le PGDay France est un moment de rencontres et de conférences pour la communauté
@@ -53,12 +52,12 @@ Le comité de sélection 2025 est composé des personnes suivantes :
 
   <div style="text-align: center; margin: 10px;">
     <img src="img/team/h_nguyen.jpg" alt="Helene Nguyen" class="img-responsive" width=100 style="margin: auto;"/>
-    <p> Helene Nguyen <br/> Engineering Manager & Software Engineer @ Filigran</p>
+    <p>Helene Nguyen <br/> Engineering Manager & Software Engineer @ Filigran</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
     <img src="img/orateurs/l_avrot.jpg" alt="Lætitia Avrot" class="img-responsive" width=100 style="margin: auto;"/>
-    <p> Lætitia Avrot <br/> Practice Leader, Postgres & Security @ EDB</p>
+    <p>Lætitia Avrot <br/> Practice Leader, Postgres & Security @ EDB</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">

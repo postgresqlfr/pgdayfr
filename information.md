@@ -40,7 +40,7 @@ Depuis la gare de Mons, pour rejoindre l'Hôtel _Van der Valk Mons_, empruntez l
 * Depuis **Lille-Flandres** :
   * Trajet d'environ 1 heure via Tournai
   * Réservation possible sur [SNCB International](https://www.b-europe.com/FR)
-  * 💡 _Remarque_ : La correspondance à Tournai mentionnée par les planificateurs n'est due qu'à un changement de numérotation des trains entre la France et la Belgique.
+  * 💡 _Remarque_ : La correspondance à Tournai mentionnée par les planificateurs n'est généralement due qu'à un changement de numérotation des trains entre la France et la Belgique.
 
 * Depuis **Paris-Nord** (trajet total d'env. 2h30) :
   * Via Lille ou Bruxelles-Midi
