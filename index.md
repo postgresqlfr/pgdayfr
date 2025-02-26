@@ -7,11 +7,10 @@ layout: default
 <h1>Le rendez-vous annuel de la communauté PostgreSQL ! </h1>
 </center>
 
-<!--
 <center>
-<img src="img/pgday_2024_bandeau_final.png" alt="Lille" class="img-responsive"/>
+<img src="img/pgday_2025_bandeau_temporaire.png" alt="Mons Belgique" class="img-responsive"/>
 </center>
--->
+
 
 <!--
 > Le PG Day France est un moment de rencontres et de conférences pour la
