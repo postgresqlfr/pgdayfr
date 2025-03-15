@@ -6,128 +6,61 @@ Le PG Day France ne serait pas possible sans le soutien des entreprises de
 la communauté PostgreSQL. Nous remercions chaleureusement nos partenaires
 pour leur aide et leur présence à nos cotés.
 
+The PG Day France would not be possible without the support of companies from
+the PostgreSQL community. We sincerely thank our sponsors for their support and
+their presence alongside us.
+
 ### PARTNERS
 
 <div class="container">
 
 <!--
 <div class="col-xs-12 col-md-6">
-<a href="https://www.crunchydata.com/" class="thumbnail">
-<img src="img/crunchy2.jpg" alt="Crunchy Data">
-</a>
-</div>
--->
-
-
-<div class="col-xs-12 col-md-6">
 <a href="https://dalibo.com/" class="thumbnail">
 <img src="img/dalibo.png" alt="Dalibo">
 </a>
 </div>
-
+-->
+<!--
 <div class="col-xs-12 col-md-6">
 <a href="https://www.data-bene.io/" class="thumbnail">
 <img src="img/databene.svg" alt="DataBene">
 </a>
 </div>
+-->
 
+</div>
 
+### COMMUNITY EVENT SPONSOR
+
+<div class="container">
 </div>
 
 ### SUPPORTERS
 
 <div class="container">
 
-<div class="col-xs-12 col-md-6">
-<a href="https://aiven.io/" class="thumbnail">
-<img src="img/aiven.png" alt="Aiven">
-</a>
-</div>
-
+<!--
 <div class="col-xs-12 col-md-6">
 <a href="https://www.decathlon.fr/" class="thumbnail">
 <img src="img/decathlon.png" alt="Decathlon">
 </a>
 </div>
-
-<div class="col-xs-12 col-md-6">
-<a href="https://www.maif.fr/" class="thumbnail">
-<img src="img/maif.png" alt="Maif">
-</a>
-</div>
-
-<div class="col-xs-12 col-md-6">
-<a href="https://www.crunchydata.com/" class="thumbnail">
-<img src="img/crunchy2.jpg" alt="Crunchy Data">
-</a>
-</div>
-
-<div class="col-xs-12 col-md-6">
-<a href="https://www.camptocamp.com/" class="thumbnail">
-<img src="img/camptocamp.svg" alt="CampToCamp">
-</a>
-</div>
-
-<div class="col-xs-12 col-md-6">
-<a href="https://www.atolcd.com/" class="thumbnail">
-<img src="img/atolcd.png" alt="AtolCD">
-</a>
-</div>
-
-
-<div class="col-xs-12 col-md-6">
-<a href="https://www.dbtune.com/" class="thumbnail">
-<img src="img/dbtune.png" alt="dbtune">
-</a>
-</div>
-
-
-<div class="col-xs-12 col-md-6">
-<a href="https://www.ovhcloud.com/" class="thumbnail">
-<img src="img/OVHcloud.svg" alt="OVHcloud">
-</a>
-</div>
-
-
+-->
 
 <!--
 <div class="col-xs-12 col-md-6">
-<a href="https://www.atolcd.com/" class="thumbnail">
-<img src="img/atolcd.png" alt="Atol CD">
-</a>
-</div>
-
-<div class="col-xs-12 col-md-6">
-<a href="https://data-bene.io/" class="thumbnail">
-<img src="img/databene.png" alt="Data Bene">
-</a>
-</div>
-
-<div class="col-xs-12 col-md-6">
-<a href="https://evolix.com/" class="thumbnail">
-<img src="img/evolix.png" alt="Evolix">
-</a>
-</div>
-
-<div class="col-xs-12 col-md-6">
-<a href="http://oslandia.com" class="thumbnail">
-<img src="img/oslandia.png" alt="Oslandia">
-</a>
-</div>
-
-<div class="col-xs-12 col-md-6">
-<a href="https://www.umanit.fr/" class="thumbnail">
-<img src="img/umanit.png" alt="UMANIT">
+<a href="https://www.ovhcloud.com/" class="thumbnail">
+<img src="img/OVHcloud.svg" alt="OVHcloud">
 </a>
 </div>
 -->
 
 </div>
 
+## (FR) Devenez partenaire du PG Day France
 
-##  Devenez partenaire du PGDay France
-
-**IMPORTANT**: Cette année le nombre de PARTNERS est limité à 5.
+<!-- **IMPORTANT**: Cette année le nombre de PARTNERS est limité à 5. -->
 
 <div class="table-responsive">
 <table class="table">
@@ -135,6 +68,7 @@ pour leur aide et leur présence à nos cotés.
     <tr>
       <th>Avantages</th>
       <th>SUPPORTER</th>
+      <th>COMMUNITY EVENT SPONSOR</th>
       <th>PARTNER</th>
     </tr>
   </thead>
@@ -142,14 +76,17 @@ pour leur aide et leur présence à nos cotés.
     <th>Logo sur la page d'accueil du site web</th>
     <td>Oui</td>
     <td>Oui</td>
+    <td>Oui</td>
   </tr>
   <tr>
-    <th>Diffusion d'une vidéo promotionnnelle</th>
+    <th>Mise à l'honneur lors des sessions d'ouverture et de clôture</th>
+    <td>Oui</td>
     <td>Oui</td>
     <td>Oui</td>
   </tr>
   <tr>
     <th>Logo sur les videos (Youtube)</th>
+    <td></td>
     <td></td>
     <td>Oui</td>
   </tr>
@@ -157,25 +94,42 @@ pour leur aide et leur présence à nos cotés.
     <th>Logo sur toutes les pages du site web</th>
     <td></td>
     <td>Oui</td>
+    <td>Oui</td>
+  </tr>
+  <tr>
+    <th>Courte description du partenaire sur le site web (max 300 caractères)</th>
+    <td></td>
+    <td>Oui</td>
+    <td>Oui</td>
   </tr>
   <tr>
     <th>Invitations VIP</th>
     <td>2</td>
+    <td>3</td>
     <td>4</td>
   </tr>
   <tr>
+    <th>Bandeau promotionnel (2mx1m max.) sur le lieu de l'événement communautaire</th>
+    <td></td>
+    <td>Oui</td>
+    <td></td>
+  </tr>
+  <tr>
     <th>Bandeau promotionnel (2mx1m max.) dans la salle de conférence</th>
+    <td></td>
     <td></td>
     <td>Oui</td>
   </tr>
   <tr>
     <th>Stand</th>
     <td></td>
+    <td></td>
     <td>Oui</td>
   </tr>
   <tr>
       <th>Tarif</th>
       <td>750€</td>
+      <td>1500€</td>
       <td>3000€</td>
     </tr>
 </table>
@@ -183,10 +137,92 @@ pour leur aide et leur présence à nos cotés.
 
 Les PARTNERS pourront distribuer leur matériel promotionnel sur leur stand.
 
-Les SUPPORTERS pourront mettre à disposition sur le stand d'accueil une page A4 et 1 cadeau promotionnels.
+Le COMMUNITY EVENT SPONSOR pourra distribuer jusqu'à deux supports promotionnels lors de l'événement communautaire.
+
+Les SUPPORTERS pourront mettre à disposition, sur le stand d'accueil, une feuille A4 et un cadeau promotionnel.
 
 
-## Liens
+## (EN) Become a sponsor of PG Day France
 
-* [Contract (EN)](https://github.com/postgresqlfr/contrats/raw/master/2024.pgday.fr/pgdayfrance_2024_sponsorship_contract_v14.pdf) A compléter
+<div class="table-responsive">
+<table class="table">
+  <thead>
+    <tr>
+      <th>Benefits</th>
+      <th>SUPPORTER</th>
+      <th>COMMUNITY EVENT SPONSOR</th>
+      <th>PARTNER</th>
+    </tr>
+  </thead>
+  <tr>
+    <th>Logo on the website's homepage/th>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <th>Highlighted during the opening and closing sessions.</th>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <th>Logo displayed on YouTube videos</th>
+    <td></td>
+    <td></td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <th>Logo on all pages of the website</th>
+    <td></td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <th>Brief business description on the website (up to 300 characters)</th>
+    <td></td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <th>VIP passes</th>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th>Promotional banner (max. 2m x 1m) at the community event location</th>
+    <td></td>
+    <td>Yes</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Promotional banner (max. 2m x 1m) inside the conference room</th>
+    <td></td>
+    <td></td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <th>Desk</th>
+    <td></td>
+    <td></td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+      <th>Pricing</th>
+      <td>750€</td>
+      <td>1500€</td>
+      <td>3000€</td>
+    </tr>
+</table>
+</div>
 
+PARTNERS can distribute their promotional materials at their booth.
+
+The COMMUNITY EVENT SPONSOR may distribute up to two promotional items during the community event.
+
+SUPPORTERS can place an A4 sheet and a promotional gift at the welcome desk.
+
+## Liens / Links
+
+* [Contract (EN)](https://github.com/postgresqlfr/contrats/raw/master/2025.pgday.fr/pgdayfrance_2025_sponsorship_contract_v15.pdf)
