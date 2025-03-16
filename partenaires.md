@@ -141,6 +141,12 @@ Le COMMUNITY EVENT SPONSOR pourra distribuer jusqu'à deux supports promotionnel
 
 Les SUPPORTERS pourront mettre à disposition, sur le stand d'accueil, une feuille A4 et un cadeau promotionnel.
 
+Ateliers : 3 ateliers, 2 heures, max 15 participants -> soumission via mail, date limite 21 avril, ordre de priorité = sponsors par ordre de niveau et de date de signature.
++ 2 séances LT dans le programme, place garantie pour 1 LT par sponsor peu importe le niveau
+
+Les PARTNERS et les SUPPORTERS ont l'opportunité d'animer un atelier de deux heures pour les participants de l'événement, avec un maximum de 15 participants par session. Le choix du thème et de la langue est laissé à leur discrétion. Trois ateliers sont disponibles et seront attribués selon le principe du premier arrivé, premier servi, avec une priorité accordée aux PARTNERS. Si moins de trois PARTNERS en font la demande, les ateliers restants seront attribués aux SUPPORTERS ayant soumis une candidature. Un contrat signé est requis pour postuler, et les demandes doivent être envoyées à contact@pgday.fr avant le 21 avril 2025 à 23h59 CEST.
+
+Du temps dédié aux _lightning talks_ sera à nouveau au programme cette année. Chaque participant au PG Day pourra choisir le sujet de son choix, qu'il soit technique ou non, et le présenter en cinq minutes, top chrono. Les partenaires (PARTNERS ou SUPPORTERS) qui soumettront une proposition de _lightning talk_ seront prioritaires.
 
 ## (EN) Become a sponsor of PG Day France
 
@@ -222,6 +228,10 @@ PARTNERS can distribute their promotional materials at their booth.
 The COMMUNITY EVENT SPONSOR may distribute up to two promotional items during the community event.
 
 SUPPORTERS can place an A4 sheet and a promotional gift at the welcome desk.
+
+PARTNERS and SUPPORTERS have the opportunity to lead a two-hour workshop for event participants, with a maximum of 15 attendees per session. The theme and language of the workshop are at their discretion. A total of three workshops are available and will be allocated on a first-come, first-served basis, with priority given to PARTNERS. If fewer than three PARTNERS apply, the remaining spots will be assigned to SUPPORTERS who have submitted a request. A signed contract is required to apply, and all requests must be sent to contact@pgday.fr no later than April 21, 2025, at 23:59 CEST.
+
+Dedicated time for _lightning talks_ will once again be part of this year's program. Each PG Day participant can choose a topic, whether technical or not, and present it in five minutes. Priority will be given to sponsors (PARTNERS or SUPPORTERS) who submit a _lightning talk_ proposal.
 
 ## Liens / Links
 
