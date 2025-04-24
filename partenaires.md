@@ -10,56 +10,65 @@ The PG Day France would not be possible without the support of companies from
 the PostgreSQL community. We sincerely thank our sponsors for their support and
 their presence alongside us.
 
-<!--
 ### PARTNERS
 
 <div class="container">
--->
-
-<!--
-<div class="col-xs-12 col-md-6">
-<a href="https://dalibo.com/" class="thumbnail">
-<img src="img/dalibo.png" alt="Dalibo">
-</a>
+  <div class="col-xs-12 col-md-6">
+  <a href="https://www.dalibo.com/" class="thumbnail">
+  <img src="img/dalibo.png" alt="Dalibo">
+  </a>
+  </div>
 </div>
--->
-<!--
-<div class="col-xs-12 col-md-6">
-<a href="https://www.data-bene.io/" class="thumbnail">
-<img src="img/databene.svg" alt="DataBene">
-</a>
-</div>
--->
 
-<!-- </div> -->
-<!--
 ### COMMUNITY EVENT SPONSOR
 
 <div class="container">
+  <div class="col-xs-12 col-md-6">
+  <a href="https://www.maif.fr/" class="thumbnail">
+  <img src="img/maif.png" alt="MAIF">
+  </a>
+  </div>
 </div>
--->
-<!--
+
+
 ### SUPPORTERS
 
 <div class="container">
--->
-<!--
-<div class="col-xs-12 col-md-6">
-<a href="https://www.decathlon.fr/" class="thumbnail">
-<img src="img/decathlon.png" alt="Decathlon">
-</a>
+  <div class="col-xs-12 col-md-6">
+  <a href="https://www.leboncoin.fr/" class="thumbnail">
+  <img src="img/leboncoin.png" alt="Le Bon Coin">
+  </a>
+  </div>
+
+  <div class="col-xs-12 col-md-6">
+  <a href="https://www.navicat.fr/" class="thumbnail">
+  <img src="img/navicat.png" alt="Navicat">
+  </a>
+  </div>
 </div>
--->
 
 <!--
-<div class="col-xs-12 col-md-6">
-<a href="https://www.ovhcloud.com/" class="thumbnail">
-<img src="img/OVHcloud.svg" alt="OVHcloud">
-</a>
-</div>
+  <div class="col-xs-12 col-md-6">
+  <a href="https://www.data-bene.io/" class="thumbnail">
+  <img src="img/databene.svg" alt="DataBene">
+  </a>
+  </div>
+-->
+<!--
+  <div class="col-xs-12 col-md-6">
+  <a href="https://www.decathlon.fr/" class="thumbnail">
+  <img src="img/decathlon.png" alt="Decathlon">
+  </a>
+  </div>
+-->
+<!--
+  <div class="col-xs-12 col-md-6">
+  <a href="https://www.ovhcloud.com/" class="thumbnail">
+  <img src="img/OVHcloud.svg" alt="OVHcloud">
+  </a>
+  </div>
 -->
 
-<!-- </div> -->
 
 ## (FR) Devenez partenaire du PG Day France
 

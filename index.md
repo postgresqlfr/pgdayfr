@@ -32,8 +32,11 @@ Cette année, le PG Day France franchit les frontières et vous invite à Mons, 
 Passionné·es, étudiant·es, DBA, développeur·euses et entreprises, tou·tes se retrouvent pour partager et apprendre autour de PostgreSQL !
 Restez connecté·es pour plus de détails et l'ouverture des inscriptions.
 
+<!--
 <center>
 <h3><a href='/appel'>L'appel à conférencier·ères est ouvert !</a></h3>
+</center>
+-->
 <!--
 <div class='row'>
   <div class='col-md-6 col-md-offset-3 col-xs-12'>
@@ -41,7 +44,6 @@ Restez connecté·es pour plus de détails et l'ouverture des inscriptions.
   </div>
 </div>
 -->
-</center>
 
 <hr/>
 
@@ -62,8 +64,11 @@ So, if you are an expert in a field related to open-source databases, have used 
 Enthusiasts, students, DBAs, developers, and companies: everyone comes together to share and learn about PostgreSQL!
 Stay tuned for more details and the opening of registrations.
 
+<!--
 <center>
 <h3><a href='/appel'>Call for Paper is open!</a></h3>
+</center>
+-->
 <!--
 <div class='row'>
   <div class='col-md-6 col-md-offset-3 col-xs-12'>
@@ -71,7 +76,38 @@ Stay tuned for more details and the opening of registrations.
   </div>
 </div>
 -->
+
+<hr/>
+<br/>
+<center>
+<h2><a href='/partenaires'>Sponsors</a></h2>
 </center>
+
+<div class="container">
+  <div class="col-xs-12 col-md-6">
+  <a href="https://www.dalibo.com/" class="thumbnail">
+  <img src="img/dalibo.png" alt="Dalibo" class="pg_sponsor">
+  </a>
+  </div>
+
+  <div class="col-xs-12 col-md-6">
+  <a href="https://www.maif.fr/" class="thumbnail">
+  <img src="img/maif.png" alt="MAIF">
+  </a>
+  </div>
+
+  <div class="col-xs-12 col-md-6">
+  <a href="https://www.leboncoin.fr/" class="thumbnail">
+  <img src="img/leboncoin.png" alt="Le Bon Coin">
+  </a>
+  </div>
+
+  <div class="col-xs-12 col-md-6">
+  <a href="https://www.navicat.fr/" class="thumbnail">
+  <img src="img/navicat.png" alt="Navicat">
+  </a>
+  </div>
+</div>
 
 <hr/>
 <br/>
@@ -79,75 +115,3 @@ Stay tuned for more details and the opening of registrations.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQlCjZcqCdUrKX1-SD9aTN33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br/>Vous pouvez consulter les vidéos des éditions précédentes sur <a href="https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g">notre chaîne Youtube</a>.
 </center>
-
-<!--
-### Nos partenaires
-<div class="container">
-        <div class="col-xs-12 col-md-6">
-          <a href="https://dalibo.com/" class="thumbnail">
-            <img src="img/dalibo.png" alt="Dalibo" class="pg_sponsor">
-          </a>
-        </div>
-        <div class="col-xs-12 col-md-6">
-          <a href="https://www.data-bene.io/" class="thumbnail">
-            <img src="img/databene.svg" alt="Databene" class="pg_sponsor">
-          </a>
-        </div>
-        <div class="col-xs-12 col-md-6">
-          <a href="https://www.atolcd.com/" class="thumbnail">
-            <img src="img/atolcd.png" alt="Atol CD" class="pg_sponsor">
-          </a>
-        </div>
-        <div class="col-xs-12 col-md-6">
-            <a href="https://capdata.fr/" class="thumbnail">
-              <img src="img/capdata.png" alt="CapData" class="pg_sponsor">
-            </a>
-          </div>
-        <div class="col-xs-12 col-md-6">
-          <a href="https://www.enterprisedb.com/" class="thumbnail">
-            <img src="img/enterprisedb.jpg" alt="EnterpriseDB" class="pg_sponsor">
-          </a>
-        </div>
-        <div class="col-xs-12 col-md-6">
-          <a href="http://www.evolix.fr/" class="thumbnail">
-            <img src="img/evolix.png" alt="Evolix" class="pg_sponsor">
-          </a>
-        </div>
-        <div class="col-xs-12 col-md-6">
-          <a href="https://leboncoin.fr" class="thumbnail">
-            <img src="img/leboncoin.png" alt="Le Bon Coin" class="pg_sponsor">
-          </a>
-        </div>
-        <div class="col-xs-12 col-md-6">
-          <a href="https://linagora.com/" class="thumbnail">
-            <img src="img/linagora.png" alt="Linagora" class="pg_sponsor">
-          </a>
-        </div>
-        <div class="col-xs-12 col-md-6">
-          <a href="http://microsoft.com" class="thumbnail">
-            <img src="img/microsoft.png" alt="Microsoft">
-          </a>
-        </div>
-        <div class="col-xs-12 col-md-6">
-          <a href="https://orachrome.com/" class="thumbnail">
-            <img src="img/orachrome.png" alt="Orachrome" class="pg_sponsor">
-          </a>
-        </div>
-        <div class="col-xs-12 col-md-6">
-          <a href="http://oslandia.com/" class="thumbnail">
-            <img src="img/oslandia.png" alt="Oslandia" class="pg_sponsor">
-          </a>
-        </div>
-        <div class="col-xs-12 col-md-6">
-          <a href="https://www.ovh.com/fr/" class="thumbnail">
-            <img src="img/ovh.png" alt="OVH">
-          </a>
-        </div>
-        <div class="col-xs-12 col-md-6">
-          <a href="https://www.quest.com/fr-fr/" class="thumbnail">
-            <img src="img/quest.jpg" alt="Quest">
-          </a>
-        </div>
-      </div>
-</div>
--->
