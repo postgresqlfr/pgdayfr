@@ -72,7 +72,7 @@ Stay tuned for more details and the opening of registrations.
 <!--
 <div class='row'>
   <div class='col-md-6 col-md-offset-3 col-xs-12'>
-    <a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Programme en ligne !</a>
+    <a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Schedule available!</a>
   </div>
 </div>
 -->
