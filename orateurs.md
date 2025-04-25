@@ -22,7 +22,7 @@ layout: default
   </div>
 </div>
 
-<!-- <div class="row pg_speaker" id="k_jex">
+<div class="row pg_speaker" id="k_jex">
   <div class="col-md-2">
   <img src="img/orateurs/k_jex.jpg" class="img-thumbnail" alt="">
   </div>
@@ -34,14 +34,14 @@ layout: default
   </p>
   <p>
     Présentation:
-    <a href='/programme'>TBD</a>
+    <a href='/programme'>Postgres sur Kubernetes pour le DBA réticent</a>
   </p>
   </div>
-</div> -->
+</div>
 
 <div class="row pg_speaker" id="g_lelarge">
   <div class="col-md-2">
-  <img src="img/orateurs/default-user.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/g_lelarge.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
   <h3>Guillaume Lelarge</h3>
@@ -58,7 +58,7 @@ layout: default
 
 <div class="row pg_speaker" id="g_yildirim">
   <div class="col-md-2">
-  <img src="img/orateurs/default-user.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/g_yildirim.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
   <h3>Gülçin Yıldırım Jelinek</h3>
@@ -92,13 +92,13 @@ layout: default
 
 <div class="row pg_speaker" id="f_coelho">
   <div class="col-md-2">
-  <img src="img/orateurs/default-user.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/f_coelho.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
   <h3>Fabien Coelho</h3>
   <span class="role">Mines Paris - PSL</span>
   <p>
-  Professeur en informatique, j'enseigne les bases de données auprès d'un public d'ingénieur généraliste. Je contribue occasionnellement à son développement depuis plus de 20 ans, en particulier sur les questions de performance (pgbench, checkpointer) et d'utilisabilité (psql, debug).
+  Professeur en informatique, j'enseigne les bases de données auprès d'un public d'ingénieur généraliste avec Postgres. Je contribue occasionnellement à son développement depuis plus de 20 ans, en particulier sur les questions de performance (pgbench, checkpointer) et d'utilisabilité (psql, debug).
   </p>
   <p>
     Présentation:
@@ -109,7 +109,7 @@ layout: default
 
 <div class="row pg_speaker" id="l_leinweber">
   <div class="col-md-2">
-  <img src="img/orateurs/default-user.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/l_leinweber.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
   <h3>Louise Leinweber</h3>
@@ -126,7 +126,7 @@ layout: default
 
 <div class="row pg_speaker" id="n_mallet">
   <div class="col-md-2">
-  <img src="img/orateurs/default-user.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/n_mallet.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
   <h3>Naeva Mallet</h3>

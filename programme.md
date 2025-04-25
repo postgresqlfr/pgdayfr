@@ -74,16 +74,14 @@ layout: default
 <div class="schedule_bloc">
   <div class="schedule_time">15h00</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/default-user.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/k_jex.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>A confirmer - To be confirmed</h3>
-  <!--
-  <p>Par <a href="orateurs#" class="pg_speaker_name">X</a> - Y</p>
+  <h3>Postgres sur Kubernetes pour le DBA réticent</h3>
+  <p>Par <a href="orateurs#k_jex" class="pg_speaker_name">Karen Jex</a> - Crunchy Data</p>
   <p>
-  Abstract
+  En tant que DBA de la vieille école, vous n'aimez pas forcément l'idée de faire tourner vos bases de données sur Kubernetes. Je comprends - vous avez passé des années à apprendre votre métier, et à construire votre boîte à outils DBA. Vous savez comment gérer un environnement de base de données fiable, sécurisé et performant. Pourquoi risquer tout cela en migrant vers Kubernetes ? De plus, Kubernetes n'est-il pas uniquement pour les applications stateless ? Mais le paysage des bases de données évolue rapidement, et les bases de données sur Kubernetes est devenu normal. Je vous assure que Kubernetes va compléter votre expertise DBA en vous fournissant de nouveaux outils puissants.
   </p>
-  -->
   </div>
 </div>
 
@@ -100,7 +98,7 @@ layout: default
 <div class="schedule_bloc">
   <div class="schedule_time">16h15</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/default-user.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/g_lelarge.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Tout savoir sur max_connections</h3>
@@ -177,7 +175,7 @@ layout: default
 <div class="schedule_bloc">
   <div class="schedule_time">09h00</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/default-user.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/g_yildirim.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Anatomy of Table-Level Locks in PostgreSQL</h3>
@@ -222,8 +220,13 @@ layout: default
   <div class="schedule_desc">
   <h3>Table ronde - Comment contribuer à PostgreSQL ?</h3>
   <p>
-  Contribuer à PostgreSQL ne se limite pas au code ! Cette table ronde explore les multiples façons de s’impliquer dans l’écosystème : développement, extensions, outils connexes, documentation, traduction, promotion de la diversité, et bien plus.
-  <br/>Des témoignages d’entreprises et de contributeur·ice·s éclaireront les différents chemins pour soutenir PostgreSQL, y compris à l’échelle d’une organisation.
+  Contribuer à PostgreSQL ne se limite pas au code ! Cette table ronde explore les multiples façons de s'impliquer dans l'écosystème : développement, extensions, outils connexes, documentation, traduction, promotion de la diversité, et bien plus.
+  <br/>Des témoignages d'entreprises et de contributeur·ice·s éclaireront les différents chemins pour soutenir PostgreSQL, y compris à l'échelle d'une organisation.
+  </p>
+  <h3>Roundtable - How to Contribute to PostgreSQL?</h3>
+  <p>
+  Contributing to PostgreSQL goes far beyond writing code! This roundtable will explore the many ways to get involved in the ecosystem: development, extensions, related tools, documentation, translation, diversity advocacy, and more.
+  <br/>Insights from companies and contributors will highlight the various paths to supporting PostgreSQL, including from within an organization.
   </p>
   </div>
 </div>
@@ -259,13 +262,13 @@ layout: default
 <div class="schedule_bloc">
   <div class="schedule_time">14h45</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/default-user.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/f_coelho.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Comment se débarrasser de Full Page Write ?</h3>
   <p>Par <a href="orateurs#f_coelho" class="pg_speaker_name">Fabien Coelho</a> - Mines Paris - PSL</p>
   <p>
-  La présentation s’intéressera aux performances de Postgres sur de grosses machines virtuelles (disons qui peuvent dépasser 50,000 tps pgbench), et sur l'impact de la configuration _full page write_, pourquoi il faut la garder, et comment s'en débarrasser, peut-être, un jour.
+  La présentation s'intéressera aux performances de Postgres sur de grosses machines virtuelles (disons qui peuvent dépasser 50,000 tps avec pgbench), en particulier en analysant l'impact de la configuration _full page write_, pourquoi il faudrait la garder, et comment s'en débarrasser, peut-être, un jour.
   </p>
   </div>
 </div>
@@ -283,7 +286,7 @@ layout: default
 <div class="schedule_bloc">
   <div class="schedule_time">16h00</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/default-user.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/l_leinweber.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Voyage au centre des statistiques dans postgres</h3>
@@ -303,7 +306,7 @@ layout: default
 <div class="schedule_bloc">
   <div class="schedule_time">16h45</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/default-user.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/n_mallet.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Comment déplacer une base Postgres avec zéro downtime ?</h3>
