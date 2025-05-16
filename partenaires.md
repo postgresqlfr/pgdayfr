@@ -66,15 +66,14 @@ their presence alongside us.
   <img src="img/crunchy.svg" alt="Crunchy Data">
   </a>
   </div>
-</div>
 
-<!--
   <div class="col-xs-12 col-md-6">
   <a href="https://www.data-bene.io/" class="thumbnail">
   <img src="img/databene.svg" alt="DataBene">
   </a>
   </div>
--->
+</div>
+
 <!--
   <div class="col-xs-12 col-md-6">
   <a href="https://www.decathlon.fr/" class="thumbnail">
