@@ -89,26 +89,32 @@ Stay tuned for more details and the opening of registrations.
   </div>
 
   <div class="col-xs-12 col-md-6">
+  <a href="https://aws.amazon.com/" class="thumbnail">
+  <img src="img/aws.png" alt="AWS" class="pg_sponsor">
+  </a>
+  </div>
+
+  <div class="col-xs-12 col-md-6">
   <a href="https://www.maif.fr/" class="thumbnail">
-  <img src="img/maif.png" alt="MAIF">
+  <img src="img/maif.png" alt="MAIF" class="pg_sponsor">
   </a>
   </div>
 
   <div class="col-xs-12 col-md-6">
   <a href="https://www.leboncoin.fr/" class="thumbnail">
-  <img src="img/leboncoin.png" alt="Le Bon Coin">
+  <img src="img/leboncoin.png" alt="Le Bon Coin" class="pg_sponsor">
   </a>
   </div>
 
   <div class="col-xs-12 col-md-6">
   <a href="https://www.navicat.fr/" class="thumbnail">
-  <img src="img/navicat.png" alt="Navicat">
+  <img src="img/navicat.png" alt="Navicat" class="pg_sponsor">
   </a>
   </div>
 
   <div class="col-xs-12 col-md-6">
   <a href="https://www.crunchydata.com/" class="thumbnail">
-  <img src="img/crunchy.svg" alt="Crunchy Data">
+  <img src="img/crunchy.svg" alt="Crunchy Data" class="pg_sponsor">
   </a>
   </div>
 </div>

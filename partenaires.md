@@ -18,6 +18,12 @@ their presence alongside us.
   <img src="img/dalibo.png" alt="Dalibo">
   </a>
   </div>
+
+  <div class="col-xs-12 col-md-6">
+  <a href="https://aws.amazon.com/" class="thumbnail">
+  <img src="img/aws.png" alt="AWS">
+  </a>
+  </div>
 </div>
 
 ### COMMUNITY EVENT SPONSOR
