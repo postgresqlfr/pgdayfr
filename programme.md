@@ -21,7 +21,23 @@ layout: default
   <i class="fa fa-laptop"></i>
   </div>
   <div class="schedule_desc">
-  <h3>Ateliers / Workshops</h3>
+  <h3>Atelier : Industrialisez vos déploiements PostgreSQL avec pglift et Ansible</h3>
+  <p>Par Alexandre Pereira et Julian Vanden Broeck - <a href="https://www.dalibo.com/">Dalibo</a></p>
+  <p>
+Dans cet atelier, nous verrons comment déployer des instances, bases de données et rôles PostgreSQL à l'aide de pglift et Ansible pour industrialiser vos environnements.
+De l'installation à la configuration, en passant par la gestion des utilisateurs, des extensions et la mise en place de la sauvegarde physique avec pgBackRest, vous utiliserez des collections Ansible et des playbooks réutilisables pour déployer vos bases de données PostgreSQL.
+  </p>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">10h00</div>
+  <div class="schedule_break">
+  <i class="fa fa-laptop"></i>
+  </div>
+  <div class="schedule_desc">
+  <h3>Atelier : Déployer PostgreSQL sur Kubernetes avec CloudNativePG</h3>
+  <p><a href="https://aws.amazon.com/">AWS</a></p>
   </div>
 </div>
 
