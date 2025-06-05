@@ -220,6 +220,7 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
   <br/>We’ll cover lock types, how PostgreSQL handles them, MVCC design and lock queuing mechanics. Attendees will learn how to minimize locking impact using battle-tested techniques by going over query examples. We will also talk about an open-source tool pgroll, which applies the expand/contract pattern for lock-free schema changes.
   <br/>By the end, attendees will have practical strategies to manage locks, ensuring data integrity and minimal downtime.
   </p>
+  <p><a href="docs/2025/gulcin-yldirim-jelinek-anatomy-of-table-level-locks-in-postgresql.pdf">Slides</a></p>
   </div>
 </div>
 
@@ -234,6 +235,7 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
   <p>
   Nous explorerons le monde complexe du réglage des paramètres du serveur PostgreSQL, où PostgreSQL révèle une multitude de paramètres configurables qui régissent son fonctionnement. L'abondance, la relation non linéaire et la complexité de ces paramètres soulignent l'importance de leur paramétrage optimal afin d'optimiser les performances des applications. Cette présentation introduit diverses approches, du réglage manuel traditionnel à des outils basés sur des heuristiques tels que PGTune et PostgreSQL Configurator, puis l'autoréglage avec machine learning. Nous partagerons des leçons apprises lors du développement d'un autotuner PostgreSQL prêt pour le système de production.
   </p>
+  <p><a href="docs/2025/luigi-nardi-reglage-automatise-de-postgresql-explorer-l-optimisation-des-parametres-serveur.pdf">Slides</a></p>
   </div>
 </div>
 
@@ -351,6 +353,7 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
   <p>
   J'ai travaillé sur un projet ou je devais déplacer plus de 150 bases d'instances individuelles vers des instances mutualisées, afin de réduire les coûts. L'objectif était d'automatiser le processus pour déplacer les bases en quelques commandes, et surtout avec le moins de downtime possible. Nous avons utilisé la magie de la réplication logique de postgres et développé un script open source pour déplacer une base en 2 commandes.
   </p>
+  <p><a href="docs/2025/naeva-mallet-comment-deplacer-une-base-postgres-avec-zero-downtime.pdf">Slides</a></p>
   </div>
 </div>
 
