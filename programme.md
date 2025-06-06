@@ -145,6 +145,7 @@ Nous nous concentrerons sur les métriques offertes par le système de statistiq
   <p>
   max_connections est certainement un des paramètres les plus connus, mais sa configuration n'est pas forcément aisé pour autant. Sa configuration peut avoir de nombreuses conséquences positives comme négatives, que ce soit sur la configuration d'autres paramètres, sur le fonctionnement du système, sur des outils à mettre en place. Il a l'air d'être très connu mais il y a tellement de choses à dire sur ce paramètre. Je vais donc faire un tour complet de ce paramètre.
   </p>
+  <p><a href="docs/2025/guillaume-lelarge-tout-savoir-sur-max-connections.pdf">Slides</a></p>
   </div>
 </div>
 
