@@ -189,7 +189,7 @@ layout: default
     <h3>Comprendre les niveaux d'isolation des transactions (FR)</h3>
     <p>Par <a href="/orateurs#f_delacourt" class="pg_speaker_name">Frédéric Delacourt</a> - Data Bene</p>
     <p>Les niveaux d'isolation des transactions définissent comment le moteur de base de données doit se comporter lorsque des accès concurrents aux données entrent en conflits. Pour chacun des niveaux définis par "la norme" SQL, nous listerons les attentes liées au niveau, nous montrerons les cas d'usage typiques, nous discuterons des erreurs de concurrence, nous expliquerons les mécanismes internes de PostgreSQL (MVCC, snapshots, structure de tuples, locks) mis en jeu et les éventuels impacts de performance associés. Nous porterons aussi notre attention sur le niveau SERIALIZABLE plutôt sous-utilisé par les développeurs. Nous nous interrogerons sur l'exécution de transactions avec des niveaux d'isolation différents. Après cette présentation, vous serez capable de choisir le bon niveau d'isolation de chacune de vos transactions.</p>
-    <!--<p><a href="docs/2026/.pdf">Slides</a></p>-->
+    <p><a href="docs/2026/PGDay_France_2026_Comprendre_les_niveaux_d_isolation_transactionelle.pdf">Slides</a></p>
   </div>
 </div>
 
