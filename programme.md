@@ -53,10 +53,12 @@ layout: default
     <p>Par <a href="/orateurs#d_clochard" class="pg_speaker_name">Damien Clochard</a> - <a href="https://www.dalibo.com/">Dalibo</a></p>
     <p>Cet atelier est consacré au framework PGRX, un environnement de développement qui facilite la conception d'extensions PostgreSQL avec le langage Rust. Avec une succession d'exercices concrets et progressifs, nous verrons les avantages du langage Rust pour intégrer du code au plus près de vos données.</p>
     <p><i>Entrée libre dans la limite des places disponibles. / Free entry subject to availability.</i></p>
-    <p>
-      <b>Pour participer à cet atelier, certains prérequis sont nécessaires : vous pouvez <a target="_blank" href="docs/2026/workshops/DALIBO_2026-PGDAYFR-PGRX.pdf">Télécharger la fiche de l'atelier en cliquant ici</a>.
-     </b>
-    </p>
+    <p>Pour participer à cet atelier, certains prérequis sont nécessaires : vous pouvez <a target="_blank" href="docs/2026/workshops/DALIBO_2026-PGDAYFR-PGRX.pdf">Télécharger la fiche de l'atelier en cliquant ici</a>.</p>
+      <p>
+        <b>
+        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<a href="https://daamien.gitlab.io/pgrx-tuto/">Lien vers le site web l'atelier</a>
+      </b>
+      </p>
   </div>
 </div>
 
