@@ -31,7 +31,7 @@ layout: default
         <p>
           Vous souhaitez faire découvrir votre ville et accueillir 150 personnes de la communauté PostgreSQL pendant 2 jours ?
         </p>
-        <a href="/candidature" class="btn btn-primary btn-lg" style="margin-top: 10px;">
+        <a href="/" class="btn btn-primary btn-lg" style="margin-top: 10px;">
           <i class="fa fa-file-text-o"></i> Consulter l'appel à candidature 2027
         </a>
       </div>
